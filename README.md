@@ -13,64 +13,46 @@ I'm a **Computer Graphics & Machine Learning** who loves to build desktop applic
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="#c">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
-      </a>
       <br>C</br>
     </td>
     <td align="center" width="96">
-      <a href="#js">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
-      </a>
       <br>Javascript</br>
     </td>
     <td align="center" width="96">
-      <a href="#CPP">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="CPP" />
-      </a>
       <br>C++</br>
     </td>
     <td align="center" width="96">
-      <a href="#csharp">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="48" height="48" alt="CSharp" />
-      </a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="CSharp" />
       <br>C#</br>
     </td>
     <td align="center" width="96">
-      <a href="#OpenGL">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" width="48" height="48" alt="OpenGL" />
-      </a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" width="48" height="48" alt="OpenGL" />
       <br>OpenGL</br>
     </td>
     <td align="center" width="96">
-      <a href="#html5">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="48" height="48" alt="React" />
-      </a>
-      <br>React
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python</br>
     </td>
     <td align="center" width="96">
-        <a href="#Node">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node" />
-        </a>
-        <br>Node
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="48" height="48" alt="QT" />
+      <br>QT</br>
     </td>
     <td align="center" width="96">
-      <a href="#SQL" >
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="48" height="48" alt="SQL" />
-      </a>
-      <br>SQL
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node" />
+      <br>NodeJS</br>
     </td>
     <td align="center" width="96">
-      <a href="#MySQL">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <br>MySQL</br>
     </td>
     <td align="center" width="96">
       <a href="#MongoDB">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="48" height="48" alt="MongoDB" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
       </a>
-      <br>MongoDB
+      <br>MongoDB</br>
     </td>
 
   </tr>
