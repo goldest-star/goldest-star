@@ -66,7 +66,7 @@ I'm a **Computer Graphics & Machine Learning** who loves to build desktop applic
 ✔ <b>3D Rendering</b> : OpenGL / Open3D / OpenSceneGraph / OGRE3D <br>
 ✔ <b>Video/Audio Processing</b> : FFmpeg / GStreamer <br>
 ✔ <b>Object Detecting</b> : OpenCV / TensorFlow / PyTorch <br>
-✔ <b>Programming-languages</b> : C++ / C# / Python <br>
+✔ <b>Programming-languages</b> : C++ / C# / VB / Python <br>
 <br>
 
 ## Top Languages
